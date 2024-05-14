@@ -30,6 +30,12 @@ Chiediamo all'utente quanti elementi dell'array dovremo stampare
 Suggerimenti:
 Probabilmente  conviene controllare che il numero di elementi della coda non sia più grande del numero di elementi totali dell'array
 
+- creo un prompt in cui chiedo quanti elementi generare
+- creo un array riassegnabile vuoto
+- riassegno il valore con un nuovo array
+- creo un ciclo for che mi permette stampare quanti elementi chiesti dall'utente
+- aggiungo una funzione per stampare solo gli ultimi 5 elementi 
+
 
 3.  (Bonus)
 Cartella: array_bonus
