@@ -14,6 +14,11 @@ Fasi
 Suggerimenti/Indicazioni:
 Sì, lo sappiamo che esistono le funzioni includes() e indexOf() ma noi non le vogliamo utilizzare per cercare nel frigorifero.
 
+- creo un array coi contenuti richiesti
+- creo una variabile con la quale aggiungo contenuto al array esistente
+- controllo che ci sia il contenuto originale e quello aggiunto
+- creo delle condizioni in cui la condizione vera (per vedere che ci sia il cocomero) verifichi tramite index (ma utilizzando la funzione length), trovi l'elemento richiesto
+
 
 2. La coda dell'Array
 Cartella: array_tail
