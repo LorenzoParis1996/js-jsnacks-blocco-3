@@ -77,5 +77,14 @@ const listaAuto = [
 
 ];
 
+console.log(listaAuto);
 
-const alBenzina = listaAuto.
+
+const alBenzina = listaAuto.filter((benza) => {
+    if (benza.alimentazione === 'benzina') {
+        return true
+    }
+
+});
+
+console.log(alBenzina);
