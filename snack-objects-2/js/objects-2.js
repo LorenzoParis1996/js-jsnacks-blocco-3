@@ -76,3 +76,6 @@ const listaAuto = [
     }
 
 ];
+
+
+const alBenzina = listaAuto.
