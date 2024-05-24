@@ -58,3 +58,18 @@ zucchine.forEach(element => {
 });
 
 console.log(sum);
+
+const zucLunghe = [];
+const zucCorte = [];
+
+for (let index = 0; index < zucchine.length; index++) {
+    const element = zucchine[index];
+    if (element.lunghezza < 8) {
+        zucCorte.push(element)
+    } else if (element.lunghezza > 8) {
+        zucLunghe.push(element)
+    }
+}
+
+console.log(zucCorte);
+console.log(zucLunghe);
